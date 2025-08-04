@@ -1,0 +1,3 @@
+Name: Challa Usha Sandhya
+Course: Bsc Computer Science
+I have learned how to create repository and how to update a file and commit.
